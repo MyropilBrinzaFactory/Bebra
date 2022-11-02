@@ -10,7 +10,6 @@ fn main() {
 
     let mut count_try = 10;
 
-
     loop {
 
         println!("Please input your guess:");
